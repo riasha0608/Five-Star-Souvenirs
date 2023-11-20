@@ -7,3 +7,4 @@ MySQL database
 Auth0
 React
 
+this is a great tech stack!
